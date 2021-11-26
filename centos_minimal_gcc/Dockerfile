@@ -9,6 +9,4 @@ RUN yum update -y && \
 	gcc \
 	gcc-c++ \
 	make \
-	cmake \
-	git \
 	bzip2
