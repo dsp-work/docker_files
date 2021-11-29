@@ -21,3 +21,9 @@ Other setting is same to `centOS minimal GCC`
 ## cmake version
 3.22.0
 
+# centOS latest GCC
+This environment has cmake of later version.
+Other setting is same to `centOS latest cmake`
+
+## gcc version
+10.3.0 (GCC)
