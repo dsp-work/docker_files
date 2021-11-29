@@ -13,3 +13,11 @@ GNU Make 3.82
 
 ## Python version
 2.7.5 (default, Nov 16 2020, 22:23:17)
+
+# centOS latest cmake
+This environment has cmake of later version.
+Other setting is same to `centOS minimal GCC`
+
+## cmake version
+3.22.0
+
