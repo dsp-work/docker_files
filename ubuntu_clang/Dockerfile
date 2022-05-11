@@ -14,4 +14,7 @@ RUN apt-get update -y && \
 	build-essential \
 	clang \
 	clang-format \
-	libeigen3-dev
+	libeigen3-dev \
+	libboost-dev
+
+WORKDIR /workspace
