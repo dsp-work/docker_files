@@ -6,6 +6,7 @@ SHELL ["/bin/bash", "-c"]
 RUN yum update -y && \
 	yum install -y \
 	wget \
+	git \
 	gcc \
 	gcc-c++ \
 	make \
